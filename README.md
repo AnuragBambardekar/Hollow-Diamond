@@ -1,6 +1,6 @@
 # Hollow-Diamond
 
-Printing a Hollow diamond
+Printing a Hollow diamond using C++
 
 ## Sample Input and Output
 
